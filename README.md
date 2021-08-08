@@ -1,2 +1,2 @@
 # mybatis-3.5.6-mytest
- source code testing
+mybatis-3.5.6 source code testing
